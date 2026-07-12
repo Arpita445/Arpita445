@@ -37,20 +37,20 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📚 Currently Learning
+##  Currently Learning
 
-- 🤖 Advanced Generative AI & LLM Applications
-- 🧠 AI Agents and Agentic AI Systems
-- ⚙️ MLOps and LLMOps
-- ☁️ Cloud Architecture and Scalable Systems
-- 🏗️ System Design Fundamentals
-- 🔗 Building AI-powered applications with APIs
+-  Advanced Generative AI & LLM Applications
+-  AI Agents and Agentic AI Systems
+-  MLOps and LLMOps
+-  Cloud Architecture and Scalable Systems
+-  System Design Fundamentals
+-  Building AI-powered applications with APIs
 
-## 🏆 Certifications & Achievements
+##  Certifications & Achievements
 
-- ☁️ AWS Certified Cloud Practitioner
-- ☁️ AWS Certified Solutions Architect
-- ☁️ Google Cloud Certifications (AI, Data Analytics, MLOps)
-- 📘 NPTEL Certification – Cloud Computing & Distributed Systems
-- 📡 NPTEL Certification – Internet of Things (IoT)
+-  AWS Certified Cloud Practitioner
+-  AWS Certified Solutions Architect
+-  Google Cloud Certifications (12+) (AI, Data Analytics, MLOps and many more)
+-  NPTEL Certification – Cloud Computing & Distributed Systems
+-  NPTEL Certification – Internet of Things (IoT)
 
