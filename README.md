@@ -2,18 +2,27 @@
 
  B.Tech Computer Science & Cloud Computing Student
  
- ## 🛠️ My Skills
+ ##  My Skills
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
 
-### AI & Cloud
+##  Cloud & AI Technologies
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Amazon Polly](https://img.shields.io/badge/Amazon%20Polly-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Amazon Polly](https://img.shields.io/badge/Amazon%20Polly-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM%20Applications-8A2BE2?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge)
 
 ### Development
 
