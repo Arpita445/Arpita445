@@ -54,12 +54,9 @@
 -  NPTEL Certification – Cloud Computing & Distributed Systems
 -  NPTEL Certification – Internet of Things (IoT)
 
- ##  GitHub Stats
+##  GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Arpita445&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpita445&layout=compact&theme=tokyonight" width="48%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpita445&show_icons=true)
 
 ##  GitHub Streak
 
