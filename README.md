@@ -53,10 +53,12 @@
 -  Google Cloud Certifications (12+) (AI, Data Analytics, MLOps and many more)
 -  NPTEL Certification – Cloud Computing & Distributed Systems
 -  NPTEL Certification – Internet of Things (IoT)
-
+-  
 ##  GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpita445&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arpita445&show_icons=true&theme=tokyonight" />
+</p>
 
 ##  GitHub Streak
 
