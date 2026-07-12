@@ -53,7 +53,13 @@
 -  Google Cloud Certifications (12+) (AI, Data Analytics, MLOps and many more)
 -  NPTEL Certification – Cloud Computing & Distributed Systems
 -  NPTEL Certification – Internet of Things (IoT)
--  
+
+##  Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arpita445&layout=compact&theme=tokyonight" />
+</p>
+   
 ##  GitHub Stats
 
 <p align="center">
