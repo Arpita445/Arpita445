@@ -57,7 +57,7 @@
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arpita445&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arpita445&show_icons=true&theme=tokyonight" />
 </p>
 
 ##  GitHub Streak
